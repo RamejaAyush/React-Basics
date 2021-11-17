@@ -7,8 +7,7 @@
     3. spread operator and destructuring is also used a alot.
     4. Class and functional based components in react.
     5. why we use react?
-    6. why react is fast and optimised?
-    7. who created react?
+    6. What is react? Why we use react? Who created it? questions for react!?
 
 ## What to do?
 
